@@ -1,4 +1,2 @@
-# javaHexagonal
-
-Primeros pasos con arquitectura hexagonal
-Pequeña Api estructurado de manera hexagonal
+# javaService
+Spring Boot Microservice Project mongodb, jpa, kafka ...
