@@ -6,5 +6,5 @@ import java.util.Optional;
 
 public interface DeleteTaskUseCase {
 
-    boolean deleteTask(Long id);
+    void deleteTask(Long id);
 }
